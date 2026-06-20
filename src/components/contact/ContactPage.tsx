@@ -39,7 +39,9 @@ export function ContactPage() {
           <div className="rounded-2xl border border-border bg-surface p-6">
             <MapPin className="h-5 w-5 text-primary mb-3" />
             <div className="text-sm text-muted-foreground">Headquarters</div>
-            <div className="font-display font-semibold mt-1">Riyadh - KSA . Calicut ,India </div>
+            <div className="font-display font-semibold mt-1">Riyadh - KSA </div>
+            <div className="text-sm text-muted-foreground">Office</div>
+            <div className="font-display font-semibold mt-1">Kerala ,India </div>
             <p className="mt-2 text-sm text-muted-foreground">
               Delivery hubs in India and the Middle East.
             </p>
