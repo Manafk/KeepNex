@@ -29,7 +29,7 @@ export function ContactPage() {
           <div className="rounded-2xl border border-border bg-surface p-6">
             <Mail className="h-5 w-5 text-primary mb-3" />
             <div className="text-sm text-muted-foreground">Email</div>
-            <div className="font-display font-semibold mt-1">inof@keepnex.io</div>
+            <div className="font-display font-semibold mt-1">info@keep-nex.io</div>
           </div>
           <div className="rounded-2xl border border-border bg-surface p-6">
             <Phone className="h-5 w-5 text-primary mb-3" />
