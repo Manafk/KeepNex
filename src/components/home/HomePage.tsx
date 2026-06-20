@@ -24,7 +24,7 @@ export function HomePage() {
             >
               <div className="inline-flex items-center gap-2 rounded-full border border-border-strong bg-surface/60 backdrop-blur px-3 py-1 text-xs font-medium text-muted-foreground">
                 <Sparkles className="h-3.5 w-3.5 text-primary" />
-                Built on the expertise of professionals who have worked with 50+ enterprises worldwide across 4 continents
+                Our team brings experience from engagements with 50+ enterprises across 3 continents
               </div>
 
               <h1 className="mt-6 font-display text-5xl md:text-7xl font-bold leading-[1.05] tracking-tight">
