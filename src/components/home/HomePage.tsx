@@ -24,7 +24,7 @@ export function HomePage() {
             >
               <div className="inline-flex items-center gap-2 rounded-full border border-border-strong bg-surface/60 backdrop-blur px-3 py-1 text-xs font-medium text-muted-foreground">
                 <Sparkles className="h-3.5 w-3.5 text-primary" />
-                Trusted by 200+ enterprises across 4 continents
+                Built on the expertise of professionals who have worked with 50+ enterprises worldwide across 4 continents
               </div>
 
               <h1 className="mt-6 font-display text-5xl md:text-7xl font-bold leading-[1.05] tracking-tight">
@@ -141,7 +141,7 @@ export function HomePage() {
             <ul className="mt-8 space-y-4">
               {[
                 "Single accountable team across all 6 service lines",
-                "ISO 27001 certified processes & compliance-ready delivery",
+                "Certified processes & compliance-ready delivery",
                 "Senior engineers — no junior hand-offs",
                 "Fixed-fee or T&M engagements, your choice",
               ].map((p) => (
