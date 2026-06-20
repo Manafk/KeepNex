@@ -41,7 +41,7 @@ export function ContactPage() {
             <div className="text-sm text-muted-foreground">Headquarters</div>
             <div className="font-display font-semibold mt-1">Riyadh - KSA </div>
             <div className="text-sm text-muted-foreground">Office</div>
-            <div className="font-display font-semibold mt-1">Kerala ,India </div>
+            <div className="font-display font-semibold mt-1">Kerala - India </div>
             <p className="mt-2 text-sm text-muted-foreground">
               Delivery hubs in India and the Middle East.
             </p>
